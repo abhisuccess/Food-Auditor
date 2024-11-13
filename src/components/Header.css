@@ -1,0 +1,12 @@
+/* src/components/Header.css */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 15px 0;
+  }
+  
+  .header h1 {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
